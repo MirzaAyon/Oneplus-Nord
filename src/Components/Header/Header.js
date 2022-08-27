@@ -58,7 +58,7 @@ const Header = () => {
                             >
                                 About
                             </NavLink>
-                            <button className="btn btn-primary rounded-pill ms-3">Get</button>
+                            <button className="btn btn-primary rounded-pill ms-3">Get one</button>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
