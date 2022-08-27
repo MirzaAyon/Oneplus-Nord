@@ -1,0 +1,18 @@
+.container-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container img {
+    width: 500px;
+    height: 500px;
+}
+
+.text-container {
+    text-align: start;
+}
+
+.text-second {
+    color: blue;
+}
