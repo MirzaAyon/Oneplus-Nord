@@ -14,7 +14,7 @@ const NotFound = () => {
                 </p>
                 <button
                     onClick={() => navigate("/home")}
-                    className="btn btn-lg btn-primary rounded-pill"
+                    className="btn btn-lg btn-warning rounded-pill"
                 >
                     BACK TO HOMEPAGE
                 </button>

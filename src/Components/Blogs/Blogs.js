@@ -1,10 +1,18 @@
-import React from 'react';
-
+import React, { useState } from "react";
+import "./Blogs.css";
+import { faqsData } from "./data";
+import FAQ from "./FAQ";
 const Blogs = () => {
+    const [faqs] = useState(faqsData);
     return (
-        <div>
-            <h2>This is blogs</h2>
-        </div>
+        <main className="container-datails">
+            <section className="faqs">
+                <h1>FAQs</h1>
+                {faqs.map((faq) => (
+                    <FAQ key={faq.id} {...faq} />
+                ))}
+            </section>
+        </main>
     );
 };
 
