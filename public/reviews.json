@@ -1,0 +1,44 @@
+[
+  {
+    "id": "6249faeb55a28a2b2a2acd4a",
+    "ratings": "5",
+    "image": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aHVtYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "name": "Ben Stokes",
+    "review": "The Oneplus Nord is one of the best creative workstations you can buy right now, especially if you're after high performance in a small form factor. It makes light work of even the most intense projects, from editing ultra-high definition videos in Final Cut Pro, to working with multi-tracked audio projects in Logic Pro. Saying that, it's overkill for most people and is certainly not cheap.\r\n"
+  },
+  {
+    "id": "6249faeb42554e1879cfe489",
+    "ratings": "4",
+    "image": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aHVtYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "name": "Aaron Finch",
+    "review": "Both models can then be upgraded further. Tick all the boxes and you will end up with an Oneplus  M1 Ultra with a 20-core CPU, 64-core GPU, and 32-core neural engine. You can also upgrade to 128GB of unified memory (let that sink in for a moment) and 8TB of SSD storage. (…) It is a lot  like, a lots of money. It is also not upgradeable after the fact, so once you have locked in that order, thats it, you can not add in more memory or anything else internally. .\r\n"
+  },
+  {
+    "id": "6249faeb7a91e636be5f948b",
+    "ratings": "5",
+    "image": "https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGh1bWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Quinton D Kock",
+    "review": "The Oneplus Nord has some benefits that are obvious even before you turn it on: It does not take up much floor or desk space;it is easy to move around (clocking in at either 5.9 pounds for the M1 Max model or 7.9 pounds for the M1 Ultra); and its curvy aluminum case looks like something you would find at MoMa. It is not meant to disappear into the background like the Mac Mini. No, the Studio deserves a prominent spot on your desk, a symbol that you have become a true creative professional. .\r\n"
+  },
+  {
+    "id": "6249faebec99e6f23c157a80",
+    "ratings": "4",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Nikolas Pooran",
+    "review": "The way the M1 Ultra is setup is still insane to me. Even with high end GPUs in the past you couldn't really just use 2 to effectively make 1 super GPU (as far as I know). I wonder if this approach could be used in future processors by different companies. Although the M1 chips is much more integrated including the GPU, ram, etc. while Intel/AMD CPU's are more individual parts. Props to Oneplus  on this achievement.\r\n"
+  },
+  {
+    "id": "6249faeb8cc5fb766d39ad45",
+    "ratings": "5",
+    "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Kane Williamson",
+    "review": "The Oneplus Nord is a good choice if you are committed to the desktop lifestyle and have a display handy (or are buying the new Studio Display). If you’re someone who also uses a laptop, it might be worth considering that the Oneplus Nord with the M1 Max processor is almost identical in performance to the MacBook Pro with the M1 Max processor. If the M1 processor is powerful enough for your needs, there is no need for a Oneplus Nord—a 24-inch iMac will suit, as will a Mac mini..\r\n"
+  },
+  {
+    "id": "6249faebb09c225efb54aa8d",
+    "ratings": "4",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Regis Chakkhabha ",
+    "review": "The exterior of the Oneplus Nord did get warmer over long testing sessions but never seemed to reach body temperature. Whenever I touch the Oneplus Nord, it always feels cool to me, even after intense workloads. .\r\n"
+  }
+]
